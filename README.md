@@ -29,7 +29,7 @@ LD_LIBRARY_PATH=. ./main
 
 Currently this is a c file which is to be converted into a shared library.
 
-It contains common functions like print and scan which are replacements for printf and scanf.
+It contains common functions like `print` and `scan` which are replacements for `printf` and `scanf`.
 
 I would increase the scope of this file in the future.
 
